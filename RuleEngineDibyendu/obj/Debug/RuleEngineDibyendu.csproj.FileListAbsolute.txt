@@ -1,0 +1,10 @@
+c:\users\dibyendu85\documents\visual studio 2015\Projects\RuleEngineDibyendu\RuleEngineDibyendu\bin\Debug\RuleEngineDibyendu.exe.config
+c:\users\dibyendu85\documents\visual studio 2015\Projects\RuleEngineDibyendu\RuleEngineDibyendu\bin\Debug\RuleEngineDibyendu.exe
+c:\users\dibyendu85\documents\visual studio 2015\Projects\RuleEngineDibyendu\RuleEngineDibyendu\bin\Debug\RuleEngineDibyendu.pdb
+c:\users\dibyendu85\documents\visual studio 2015\Projects\RuleEngineDibyendu\RuleEngineDibyendu\obj\Debug\RuleEngineDibyendu.exe
+c:\users\dibyendu85\documents\visual studio 2015\Projects\RuleEngineDibyendu\RuleEngineDibyendu\obj\Debug\RuleEngineDibyendu.pdb
+c:\users\dibyendu85\documents\visual studio 2015\Projects\RuleEngineDibyendu\RuleEngineDibyendu\bin\Debug\Newtonsoft.Json.dll
+c:\users\dibyendu85\documents\visual studio 2015\Projects\RuleEngineDibyendu\RuleEngineDibyendu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dibyendu85\source\repos\RuleEngineDibyendu\RuleEngineDibyendu\bin\Debug\RuleEngineDibyendu.exe.config
+C:\Users\Dibyendu85\source\repos\RuleEngineDibyendu\RuleEngineDibyendu\obj\Debug\RuleEngineDibyendu.exe
+C:\Users\Dibyendu85\source\repos\RuleEngineDibyendu\RuleEngineDibyendu\obj\Debug\RuleEngineDibyendu.pdb
